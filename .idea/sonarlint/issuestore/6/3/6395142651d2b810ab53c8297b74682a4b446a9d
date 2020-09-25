@@ -1,0 +1,6 @@
+
+g
+java:S2259^"KA "NullPointerException" could be thrown; "upgradeToType" is nullable here.(£šÉ8ŒÞï÷Ê.
+M
+java:S1172["0Remove this unused method parameter "hotelType".(²Ùùœ8¿³†øÊ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(£–‘“ýÿÿÿÿ8ŒÞï÷Ê.
